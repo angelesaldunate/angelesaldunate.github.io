@@ -1,6 +1,10 @@
 ---
 layout: articles
-permalink: /blog/index.html
-title: "Blog"
-tags: [blog, graphic design]
+permalink: "/blog/index.html"
+title: Blog
+tags:
+- blog
+- graphic design
+published: false
+
 ---
