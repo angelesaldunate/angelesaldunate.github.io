@@ -34,10 +34,10 @@ bing_verify: B3B21CDB59D1FC75DFE9B0D0CC329C8C
 links:
   - title: About
     url: /about
-  - title: Blog
-    url: /blog
-  - title: Projects
-    url: /projects
+  #- title: Blog
+   # url: /blog
+  #- title: Projects
+   # url: /projects
   - title: Papers
     url: /papers
   # - title: Talks
