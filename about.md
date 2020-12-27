@@ -4,10 +4,7 @@ permalink: "/about/index.html"
 title: About
 description: I'm passionate on building applications that helps others using machine
   learning and NLP/NLU.
-tags:
-- about
-- machine learning
-- artificial intelligence
+tags: []
 image:
   feature: torres.jpg
 
@@ -30,4 +27,4 @@ Breaking any kind of barriers in society is what motivates me. Language barriers
 
 Let's talk about ML, NLP, climbing in Chile, Patagonia, cute fat cats, or anything! [adaldunate@miuandes.cl](mailto:adaldunate@miuandes.cl)
 
-<p style="text-align:center"> <a href="https://www.linkedin.com/in/angeles-aldunate/"><i class="fab fa-linkedin"></i>LinkedIn</a> 
+<p style="text-align:center"> <a href="https://www.linkedin.com/in/angeles-aldunate/"><i class="fab fa-linkedin"></i>LinkedIn</a>
