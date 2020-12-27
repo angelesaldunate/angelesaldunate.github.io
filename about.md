@@ -6,19 +6,8 @@ description: I'm passionate on building applications that helps others using mac
   learning and NLP/NLU.
 tags:
 - about
-- Jaan Altosaar
-- Princeton
-- PhD
 - machine learning
-- afropunk
-- collective behavior
-- columbia
-- physics
-- computer science
-- useful science
-- design
 - artificial intelligence
-- intelligent design
 image:
   feature: altosaar-workshop.jpg
 
