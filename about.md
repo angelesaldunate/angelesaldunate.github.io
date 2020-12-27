@@ -1,39 +1,44 @@
 ---
 layout: page
-permalink: /about/index.html
+permalink: "/about/index.html"
 title: About
-description: I'm excited about improving science (and your life) using machine learning and design.
-tags: [about, Jaan Altosaar, Princeton, PhD, machine learning, afropunk, collective behavior, columbia, physics, computer science, useful science, design, artificial intelligence, intelligent design]
+description: I'm passionate on building applications that helps others using machine
+  learning and NLP/NLU.
+tags:
+- about
+- Jaan Altosaar
+- Princeton
+- PhD
+- machine learning
+- afropunk
+- collective behavior
+- columbia
+- physics
+- computer science
+- useful science
+- design
+- artificial intelligence
+- intelligent design
 image:
   feature: altosaar-workshop.jpg
----
-I'm an incoming Postdoctoral Research Scientist at Columbia University Irving Medical Center focused on machine learning for women's health and health disparity. I will be working with [Noémie Elhadad](http://people.dbmi.columbia.edu/noemie/).
-
-For my Ph.D. at Princeton, I was fortunate to be advised by [David Blei](http://www.cs.columbia.edu/~blei/) and [Shivaji Sondhi](http://www.princeton.edu/~sondhi/).  My Ph.D. was supported by the Natural Sciences and Engineering Research Council of Canada, and I had fun working with [Andriy Mnih](https://www.cs.toronto.edu/~amnih/) at [DeepMind](http://deepmind.com/), and [Eugene Brevdo](https://web.math.princeton.edu/~ebrevdo/) at [Google Brain](https://research.google.com/). Previously, I studied Maths and Physics at McGill. Find my CV at [jaan.io/cv](https://jaan.io/cv).
-
-I'm Estonian-Canadian and outside of academia I love volleyball, meditation, [music production](https://soundcloud.com/lyfos), and George Saunders. 
-
-How can we use technology such as machine learning to effect the most societal good? This is what motivates me. A few years ago, I launched [Useful Science](http://usefulscience.org) with a group of friends – I hope you'll find a study on there that improves your life.
 
 ---
+I'm in the final year of a Msci at Universidad de Los Andes, my work is focused on applying deep learning models in different fields such as marketing, healthcare, and traffic. I was admitted as a research assistant at the data science group of Complex Systems Engineering Institute of Chile. Here I worked with my Thesis advisors [Carla Vairetti](https://scholar.google.com/citations?user=VPQYt1IAAAAJ&hl=es) and [Sebastián Maldonado](https://scholar.google.nl/citations?user=Qzl7WeYAAAAJ&hl=en).
 
-The best way to reach me is [altosaar@princeton.edu](mailto:altosaar@princeton.edu), and I'm grateful for any positive or negative feedback through the anonymous form at [https://jaan.io/feedback]](https://jaan.io/feedback). Subscribe to my <a href="http://tinyletter.com/altosaar"><i class="fas fa-newspaper"></i> mailing list</a> for updates on essays, blog posts, and slightly novel developments-at-large.
+Now I'm a research assistant in HAPLAB [https://haplab.org/](https://haplab.org/ "https://haplab.org/") . Here I’m collaborating in research that co-design health applications for the elderly. I’m also leading research that improves communication of people that suffer from ALS using natural language processing. I work mainly with [Valeria Herskovic](https://scholar.google.com/citations?user=hZvxhjYAAAAJ&hl=es) as a guide.
 
-<p style="text-align:center">
-<a href="https://twitter.com/thejaan"><i class="fab fa-twitter"></i>Twitter</a>
-<a href="http://www.linkedin.com/in/jaanaltosaar"><i class="fab fa-linkedin"></i>LinkedIn</a>
-<a href="https://soundcloud.com/lyfos"><i class="fab fa-soundcloud"></i>Soundcloud</a>
-<a href="https://www.flickr.com/photos/thejaan/"><i class="fab fa-flickr"></i>Flickr</a>
-<a href="https://github.com/altosaar"><i class="fab fa-github"></i>GitHub</a>
-</p>
+Also I’m participating in a startup that a friend of mine is managing called Snow Consulting. Is a startup that gives AI/BI solutions to contact centers, including data mining and BI, transcription (speech to text/ text to speech), omnichannel optimization, Text Mining, and Chatbots. I advise on the AI technology we use and develop while I research NLP/NLU of dialog systems in Spanish and omnichannel optimization.
 
+Previously, I studied Software Engineering at Universidad de Los Andes. Find my CV [here](https://drive.google.com/file/d/1i2z5Ngq1XplTogZx8JJ1KL2uIyjUzxwX/view?usp=sharing).
 
----
+I'm from Chile and I love climbing, hiking, and any team sport (I'm not necessarily good ;) but the spirit is what counts).
 
-Hey! Having a 'colophon' doesn't mean I'm a jerk! Just wanted to thank [Cole Townsend](http://coletownsend.com/) for letting me fork his Jekyll theme – the code is available [here](https://github.com/altosaar/jaan.io) :)
+Both in my undergrad and Msci I was the only female student. That's why I’m actively involved in an [ONG ](https://ninaspro.cl/)that empowers girls and teaches them programming abilities to lower the gender gap in STEM careers. We do this by encouraging the participation and training girls to do well in the national Olympic programming contest. Meanwhile, we do talks and conferences to make noticeable women and show the girls role models that are dedicated to STEM.
 
+Breaking any kind of barriers in society is what motivates me. Language barriers, lack of accessibility from disabilities, the gender gap, race, ethnicity, name one. I use machine learning and my time to achieve this goal in any way I can. One step at a time.
 
+***
 
+Let's talk about ML, NLP, climbing in Chile, Patagonia, cute fat cats, or anything! [adaldunate@miuandes.cl](mailto:adaldunate@miuandes.cl)
 
-
-
+<p style="text-align:center"> <a href="https://www.linkedin.com/in/angeles-aldunate/"><i class="fab fa-linkedin"></i>LinkedIn</a> 
