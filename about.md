@@ -25,6 +25,6 @@ Breaking any kind of barriers in society is what motivates me. Language barriers
 
 ***
 
-Let's talk about ML, NLP, climbing in Chile, Patagonia, cute fat cats, or anything! [adaldunate@miuandes.cl](mailto:adaldunate@miuandes.cl)
+Let's talk about ML, NLP, climbing in Chile, Patagonia, breaking barriers, or anything! [adaldunate@miuandes.cl](mailto:adaldunate@miuandes.cl)
 
 <p style="text-align:center"> <a href="https://www.linkedin.com/in/angeles-aldunate/"><i class="fab fa-linkedin"></i>LinkedIn</a>
