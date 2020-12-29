@@ -9,7 +9,7 @@ image:
   feature: torres.jpg
 
 ---
-I'm in the final year of a Msci at Universidad de Los Andes, my work is focused on applying deep learning models in different fields such as marketing, healthcare, and traffic. I was admitted as a research assistant at the data science group of Complex Systems Engineering Institute of Chile. Here I worked with my Thesis advisors [Carla Vairetti](https://scholar.google.com/citations?user=VPQYt1IAAAAJ&hl=es) and [Sebastián Maldonado](https://scholar.google.nl/citations?user=Qzl7WeYAAAAJ&hl=en).
+I'm in the final year of a Msci at Universidad de Los Andes. My work is focused on applying deep learning models in different fields such as marketing, healthcare, and traffic. I was admitted as a research assistant at the data science group of Complex Systems Engineering Institute of Chile. Here I worked with my Thesis advisors [Carla Vairetti](https://scholar.google.com/citations?user=VPQYt1IAAAAJ&hl=es) and [Sebastián Maldonado](https://scholar.google.nl/citations?user=Qzl7WeYAAAAJ&hl=en).
 
 Now I'm a research assistant in HAPLAB [https://haplab.org/](https://haplab.org/ "https://haplab.org/") . Here I’m collaborating in research that co-design health applications for the elderly. I’m also leading research that improves communication of people that suffer from ALS using natural language processing. I work mainly with [Valeria Herskovic](https://scholar.google.com/citations?user=hZvxhjYAAAAJ&hl=es) as a guide.
 
