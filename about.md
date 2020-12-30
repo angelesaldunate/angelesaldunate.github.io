@@ -15,7 +15,7 @@ Now I'm a research assistant in HAPLAB [https://haplab.org/](https://haplab.org/
 
 Also, I’m participating in a startup that a friend of mine is managing called Snow Consulting. Is a startup that gives AI/BI solutions to contact centers, including data mining and BI, transcription (speech to text/ text to speech), omnichannel optimization, text mining, and chatbots. I advise on what AI technology we use while I research NLP/NLU to improve text classification and dialog systems in Spanish and omnichannel optimization.
 
-Previously, I studied Software Engineering at Universidad de Los Andes. Find my CV [here](https://drive.google.com/file/d/1i2z5Ngq1XplTogZx8JJ1KL2uIyjUzxwX/view?usp=sharing).
+Previously, I studied Software Engineering at Universidad de Los Andes. Find my CV [here](https://drive.google.com/file/d/1mgevi1Tq4k3lHD2zQ4L4YRy3BVg-mOVd/view?usp=sharing).
 
 I'm from Chile and I love climbing, hiking, and any team sport (I'm not necessarily good ;) but the spirit is what counts).
 
